@@ -1,0 +1,17 @@
+{
+	"name": "theme-dark-monokai",
+	"description": "Dark Monokai",
+	"version": "0.2.0",
+	"publisher": "bogdan-sinitsa",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark (Monokai)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DarkMonokai.tmTheme"
+			}
+		]
+	},
+	"icon": "icon.png"
+}
