@@ -180,6 +180,20 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Function Call Variable</string>
+			<key>scope</key>
+			<string>variable.other.property</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>
+    			</string>
+				<key>foreground</key>
+				<string>#66D9EF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Tag name</string>
 			<key>scope</key>
 			<string>entity.name.tag</string>
