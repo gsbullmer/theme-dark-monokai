@@ -9,6 +9,8 @@
 		<dict>
 			<key>settings</key>
 			<dict>
+				<key>foreground</key>
+				<string>#F8F8F0</string>
 				<key>lineHighlight</key>
 				<string>#3E3D32</string>
 				<key>selection</key>
