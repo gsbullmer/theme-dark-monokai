@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>lineHighlight</key>
-				<string>#3E3D32</string>
+				<string>#000000</string>
 				<key>selection</key>
 				<string>#49483E</string>
 				<key>findHighlight</key>
